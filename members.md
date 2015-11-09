@@ -1,2 +1,2 @@
-kbashou
-moberdi
+kbashour
+moberdie
